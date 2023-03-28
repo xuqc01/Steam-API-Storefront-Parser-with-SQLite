@@ -4,7 +4,7 @@ This project scrapes video game data (app id, cost, release dates, active player
 
 # Findings
 
-Based on a weighted average of the number of players per game per tag, the top 10 most popular tags were Action, Adventure, Open World, Strategy, Simulation, Co-op, RPG, Indie, and Atmospheric. Note that only 3,000 of the 70,000+ games were analyzed because the average player base for the majority of games were below 20 players. The graphical representation of these findings can be summarized in the Tableau file.
+Based on a weighted average of the number of players per game per tag, the top 10 most popular tags were Action, Adventure, Open World, Strategy, Simulation, Co-op, RPG, Indie, and Atmospheric. Note that only 3,000 of the 70,000+ games were analyzed because the average player base for the majority of games were below 20 players. The graphical representation of these findings can be summarized in the Tableau file above (Steam-popular-tags.twb).
 
 Software Requirements
 1. SQLite
